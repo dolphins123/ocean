@@ -1,11 +1,11 @@
 body {
-  background-color: #f4e1d2;
+  background-color: #b2b2b2;
   padding: 30px
   color: black;
 }
 nav {
    padding: 30px;
-    background-color:#b2b2b2;
+    background-color:#50394c;
     position: sticky;
     top:0;
     text-shadow: 1px 1px 0 #444;
@@ -32,13 +32,13 @@ main {
 aside {
   grid-area: aside;
   padding: 30px;
-  background-color:#50394c;
+  background-color:#f4e1d2;
   color: white;
 }
 article { 
   grid-area: article;
   padding: 30px;
-  background-color: white;
+  background-color:#f4e1d2;
   color: black;
 }
 footer {
