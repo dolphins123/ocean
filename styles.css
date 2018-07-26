@@ -24,8 +24,8 @@ H1 {
 main {
    padding-top: 15px;
    display: grid;
-   grid-templat-areas:
-      'aside artile article'
+   grid-template-areas:
+      'aside article article'
       'aside footer footer';
    grid-gap: 30px;
 }
