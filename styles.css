@@ -9,5 +9,12 @@ nav {
     position: sticky;
     top:0;
     text-shadow: 1px 1px 0 #444;
-    color:white
+    color: white;
+}
+header{
+  padding: 30px;
+  height: 70%;
+  background-image: url("https://images.unsplash.com/photo-1440020143730-090579c4d53c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=623dff6c95ef32d548049d74d0ac8ecc&auto=format&fit=crop&w=500&q=60");
+  background-size: cover;
+  backgroung-attachment: fixed;
 }
